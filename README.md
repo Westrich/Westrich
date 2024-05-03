@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on experimental progects (Games)
 - 📫 How to reach me via linked in
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Melons belong to the family of pumkins :)
+- ⚡ Fun fact: Melons belong are in the same family as pumkins :)
 
 <!---
 Westrich/Westrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
